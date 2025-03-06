@@ -1,4 +1,4 @@
-package Ödev;
+package Odev;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class Ödev_SauceDemo {
+public class Ödev_SauceDemo_7 {
     public static WebDriver createWebDriver(){
         System.setProperty("webdriver.chrome.driver","src/driver/chromedriver/chromedriver.exe");
         WebDriver driver =new ChromeDriver();
